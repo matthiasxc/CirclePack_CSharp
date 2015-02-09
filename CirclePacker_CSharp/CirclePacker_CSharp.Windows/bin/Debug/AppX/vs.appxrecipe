@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BIGBOX</Machine>
+    <WindowsUser>matth_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e8b47175-7c05-4f24-8172-85466d900426</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>AC14B47946FAD56BC0A95036DAC829535FBBC6DE28CB190382060FAA8A632D3E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e8b47175-7c05-4f24-8172-85466d900426_1.0.0.0_neutral__t5ttxr2tr3kzw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e8b47175-7c05-4f24-8172-85466d900426_t5ttxr2tr3kzw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e8b47175-7c05-4f24-8172-85466d900426</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=matth_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-09T06:52:53.188</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\bin\Debug\CirclePacker_CSharp.Windows.exe">
+      <PackagePath>CirclePacker_CSharp.Windows.exe</PackagePath>
+      <Modified>2015-02-09T06:55:53.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-09T06:52:52.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-09T06:52:52.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\bin\Debug\CirclePacker_CSharp.Windows.xr.xml">
+      <PackagePath>CirclePacker_CSharp.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-09T06:52:52.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-09T06:52:52.844</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

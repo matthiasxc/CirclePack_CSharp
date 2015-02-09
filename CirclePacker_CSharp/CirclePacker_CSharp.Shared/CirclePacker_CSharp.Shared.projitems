@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>54092d5a-1f98-491b-a938-0f1f620d4502</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>CirclePacker_CSharp</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)CirclePacker\Circle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CirclePacker\CirclePacker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MathHelpers\CircleVisHelpers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MathHelpers\MathHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MathHelpers\Vector2.cs" />
+  </ItemGroup>
+</Project>

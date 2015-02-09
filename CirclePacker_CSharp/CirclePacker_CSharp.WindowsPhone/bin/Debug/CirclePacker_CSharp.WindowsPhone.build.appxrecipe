@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BIGBOX</Machine>
+    <WindowsUser>matth_000</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ae397b11-51ca-4911-9b32-3b4e74f72093</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\bin\Debug\CirclePacker_CSharp.WindowsPhone.exe">
+      <PackagePath>CirclePacker_CSharp.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\bin\Debug\CirclePacker_CSharp.WindowsPhone.xr.xml">
+      <PackagePath>CirclePacker_CSharp.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matth_000\documents\visual studio 2013\Projects\CirclePacker_CSharp\CirclePacker_CSharp\CirclePacker_CSharp.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
